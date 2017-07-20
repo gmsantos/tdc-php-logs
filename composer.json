@@ -1,0 +1,13 @@
+{
+    "name": "gmsantos/tdc-php-logs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gmsantos",
+            "email": "gabriel.ms1@hotmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23"
+    }
+}
