@@ -1,6 +1,6 @@
-# TDC 2017 - Logs, pra que te quero!
+# Implementando PSR-3 com Monolog
 
-Examples for TDC 2017 presentation about PHP logs.
+Code example used during the presentation about Monolog.
 
 # Running the examples
 
